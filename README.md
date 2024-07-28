@@ -1,0 +1,2 @@
+# OtA
+Obsidian to Anki
